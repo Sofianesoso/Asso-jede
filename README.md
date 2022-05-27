@@ -1,2 +1,2 @@
 # Asso-jede
-Site responsive html/css
+Site responsive mobile-first html/css
